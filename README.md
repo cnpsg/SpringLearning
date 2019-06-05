@@ -2,7 +2,9 @@
 ## springboot相关集成
 ### 01-springboot对mongodb的集成(项目下readme.md配mongodb的安装)
 ### 02-springboot对redis的集成(项目下readme.md配redis的安装)
-### 03-springboot对mysql和mybatis的集成(项目下mysql的安装)
+### 03-springboot对mysql和mybatis的集成(项目下readme.md项目下mysql的安装)
+### 04-springboot对swagger的集成
+### 05-springboot对kafka的集成(项目下readme.md项目下kafka的安装)
 **Markdown是一种轻量级的「标记语言」**
 
 
